@@ -21,6 +21,14 @@
             "whileAB",
             "whileAB.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "forAB",
+            "forAB.json"
+          ]
         }
       ],
       "configxml": null,
