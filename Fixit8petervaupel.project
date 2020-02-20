@@ -34,14 +34,6 @@
           "!type": "External",
           "file": [
             "forms",
-            "calcAB",
-            "calcAB.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
             "calc",
             "calc.json"
           ]
