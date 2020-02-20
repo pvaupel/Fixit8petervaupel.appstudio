@@ -37,6 +37,14 @@
             "calcAB",
             "calcAB.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calc",
+            "calc.json"
+          ]
         }
       ],
       "configxml": null,
